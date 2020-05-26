@@ -1,2 +1,2 @@
 # typescript_tutorial
-https://qiita.com/EBIHARA_kenji/items/31b7c1c62426bdabd263
+https://qiita.com/se_n_pu_u_ki/items/1ed426778e426766fc3e
